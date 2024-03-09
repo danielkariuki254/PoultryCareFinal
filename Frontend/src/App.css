@@ -1,0 +1,28 @@
+.one-b {
+  background-color: #b0c4d8;
+}
+.one-c {
+  background-color: #98f598;
+}
+.two-b {
+  background-color: #f3dede;
+}
+
+.four-b {
+  background-color: #b4afaf;
+}
+
+.three-b {
+  background-color: #a8dfbf;
+}
+.three-c {
+  background-color: #05fcdb;
+}
+
+/* @font-face {
+  font-family: "YoungSerif-Regular";
+  src: local("YoungSerif-Regular"),
+    url("/src/assets/YoungSerif-Regular.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+} */
