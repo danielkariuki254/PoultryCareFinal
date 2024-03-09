@@ -2,7 +2,7 @@ import axios from "axios";
 
 const axiosInstance = axios.create({
   // baseURL: "https://marketplace-agre.onrender.com",
-  baseURL: "http://localhost:7000",
+  baseURL: "https://poultrycarefinal.onrender.com",
   timeout: 5000,
   headers: {
     "Content-Type": "application/json",
